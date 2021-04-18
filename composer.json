@@ -2,7 +2,7 @@
     "name": "vansales/uconvert",
     "description": "PHP Library to convert product units ",
     "keywords": [
-        "Unit Conversion, UOM"
+        "Unit Conversion"
     ],
     "license": "MIT",
     "require": { 
